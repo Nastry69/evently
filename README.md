@@ -71,6 +71,7 @@ elle ne gère pas les inscriptions utilisateurs
 Pour cette raison, certaines fonctionnalités sont simulées côté front.
 
 📁 Arborescence du projet
+```
 src/
   components/
     EventCard.tsx
@@ -89,6 +90,7 @@ src/
   App.tsx
   main.tsx
   index.css
+```
 
 ## Installation nécessaire
 
